@@ -1,0 +1,216 @@
+timestamp=1702630104491
+
+[~A]
+ModifyID=1
+Version=74
+
+[~MFT]
+0=120|0lmb_bram_if_cntlr_v4_0_21.mgf|140688|0
+1=17|1lmb_bram_if_cntlr_v4_0_21.mgf|159302|0
+3=17|3lmb_bram_if_cntlr_v4_0_21.mgf|34474|0
+
+[axi_interface]
+A/imp=A/IMP 21|../../../../../../edatools/Xilinx/Vivado/2022.1/data/ip/xilinx/lmb_bram_if_cntlr_v4_0/hdl/lmb_bram_if_cntlr_v4_0_vh_rfs.vhd|3677|1*120596
+BinL64/imp=3*23164
+I=0*79263
+I/imp=I/IMP 0*82155
+M=11|1|vf1|1702630104440|../../../../../../edatools/Xilinx/Vivado/2022.1/data/ip/xilinx/lmb_bram_if_cntlr_v4_0/hdl/lmb_bram_if_cntlr_v4_0_vh_rfs.vhd|0*77358*0x2b1dda1f5d69fd51f26703982068e9ca71e57d6d|0*79073*0x24f53803c3278f1d7f185bd51c58332c
+M/imp=M/IMP 21|1|vf1|1702630104442|../../../../../../edatools/Xilinx/Vivado/2022.1/data/ip/xilinx/lmb_bram_if_cntlr_v4_0/hdl/lmb_bram_if_cntlr_v4_0_vh_rfs.vhd|0*79510*0x16ae0a16a619df88d731822c3f9a447a66a23cd9|0*81958*0x4f3a0e4d6b49452134debcca3f6f763f
+R=../../../../../../edatools/Xilinx/Vivado/2022.1/data/ip/xilinx/lmb_bram_if_cntlr_v4_0/hdl/lmb_bram_if_cntlr_v4_0_vh_rfs.vhd|3637
+Version=2022.10.083 (Linux64)|00000006789cd32d4acd49ac00000760024a|ebf3287f30d8cb66399b15d159ffc73268d8403f491f494aa39484cae5de97c0166eac8d26fb4dcc3671c16a4a0657bd
+Version/imp=2022.10.083 (Linux64)|00000006789cd32d4acd49ac00000760024a|d281f7a0ebd67a0f3ace0230f6f62941bd0cbcf4b4686eb3e47fdc50f8face52
+
+[checkbit_handler]
+A/imp=A/IMP 21|../../../../../../edatools/Xilinx/Vivado/2022.1/data/ip/xilinx/lmb_bram_if_cntlr_v4_0/hdl/lmb_bram_if_cntlr_v4_0_vh_rfs.vhd|1451|1*31867
+BinL64/imp=3*7276
+I=0*33795
+I/imp=I/IMP 0*66682
+M=11|1|vf1|1702630104416|../../../../../../edatools/Xilinx/Vivado/2022.1/data/ip/xilinx/lmb_bram_if_cntlr_v4_0/hdl/lmb_bram_if_cntlr_v4_0_vh_rfs.vhd|0*32732*0xa2c1ca6ab5b40faa83b6afd6c98034186e78a4f1|0*33602*0x24f53803c3278f1d7f185bd51c58332c
+M/imp=M/IMP 21|1|vf1|1702630104418|../../../../../../edatools/Xilinx/Vivado/2022.1/data/ip/xilinx/lmb_bram_if_cntlr_v4_0/hdl/lmb_bram_if_cntlr_v4_0_vh_rfs.vhd|0*34045*0xc1652cefb5dbf10c8ecc05740909d17360d266cd|0*66482*0x4f3a0e4d6b49452134debcca3f6f763f
+R=../../../../../../edatools/Xilinx/Vivado/2022.1/data/ip/xilinx/lmb_bram_if_cntlr_v4_0/hdl/lmb_bram_if_cntlr_v4_0_vh_rfs.vhd|1432
+Version=2022.10.083 (Linux64)|00000006789cd32d4acd49ac00000760024a|cc492b0f35cd3bf32fb050dfb28741d03cdbe9224050410c9f3a2c8e814edcedaf45841dddddd87916beca4eee721b6f
+Version/imp=2022.10.083 (Linux64)|00000006789cd32d4acd49ac00000760024a|d281f7a0ebd67a0f3ace0230f6f629413c468846b55148ffdf2c419028291d51
+
+[correct_one_bit]
+A/imp=A/IMP 21|../../../../../../edatools/Xilinx/Vivado/2022.1/data/ip/xilinx/lmb_bram_if_cntlr_v4_0/hdl/lmb_bram_if_cntlr_v4_0_vh_rfs.vhd|3126|1*112870
+BinL64/imp=3*19208
+I=0*68113
+I/imp=I/IMP 0*70127
+M=11|1|vf1|1702630104422|../../../../../../edatools/Xilinx/Vivado/2022.1/data/ip/xilinx/lmb_bram_if_cntlr_v4_0/hdl/lmb_bram_if_cntlr_v4_0_vh_rfs.vhd|0*67337*0xba8e48560831a46ef3c2cf163ed5873eb01bd82f|0*67921*0x24f53803c3278f1d7f185bd51c58332c
+M/imp=M/IMP 21|1|vf1|1702630104424|../../../../../../edatools/Xilinx/Vivado/2022.1/data/ip/xilinx/lmb_bram_if_cntlr_v4_0/hdl/lmb_bram_if_cntlr_v4_0_vh_rfs.vhd|0*68362*0x65839f311a9a398f234013025a494d3517a3e68f|0*69928*0x4f3a0e4d6b49452134debcca3f6f763f
+R=../../../../../../edatools/Xilinx/Vivado/2022.1/data/ip/xilinx/lmb_bram_if_cntlr_v4_0/hdl/lmb_bram_if_cntlr_v4_0_vh_rfs.vhd|3116
+Version=2022.10.083 (Linux64)|00000006789cd32d4acd49ac00000760024a|a7cbee2e64e1f1f3426ded71860e1eb1c72f3e8d4b9b0f73bcf8f72b9559abf085425f2cc5d2a212e5f1f879e41fb14e
+Version/imp=2022.10.083 (Linux64)|00000006789cd32d4acd49ac00000760024a|d281f7a0ebd67a0f3ace0230f6f629414f0f51ec79f535af364fb726f176e6c7
+
+[correct_one_bit_64]
+A/imp=A/IMP 21|../../../../../../edatools/Xilinx/Vivado/2022.1/data/ip/xilinx/lmb_bram_if_cntlr_v4_0/hdl/lmb_bram_if_cntlr_v4_0_vh_rfs.vhd|3307|1*115711
+BinL64/imp=3*20355
+I=0*71515
+I/imp=I/IMP 0*73543
+M=11|1|vf1|1702630104428|../../../../../../edatools/Xilinx/Vivado/2022.1/data/ip/xilinx/lmb_bram_if_cntlr_v4_0/hdl/lmb_bram_if_cntlr_v4_0_vh_rfs.vhd|0*70729*0xbc840552ed1f7cea2f6f2c16a4e5323bc6c54f28|0*71320*0x24f53803c3278f1d7f185bd51c58332c
+M/imp=M/IMP 21|1|vf1|1702630104430|../../../../../../edatools/Xilinx/Vivado/2022.1/data/ip/xilinx/lmb_bram_if_cntlr_v4_0/hdl/lmb_bram_if_cntlr_v4_0_vh_rfs.vhd|0*71767*0x299e3599893424e349c88d8e63ea325ac2063537|0*73341*0x4f3a0e4d6b49452134debcca3f6f763f
+R=../../../../../../edatools/Xilinx/Vivado/2022.1/data/ip/xilinx/lmb_bram_if_cntlr_v4_0/hdl/lmb_bram_if_cntlr_v4_0_vh_rfs.vhd|3297
+Version=2022.10.083 (Linux64)|00000006789cd32d4acd49ac00000760024a|a7cbee2e64e1f1f3426ded71860e1eb1b526bbb984bec0955f38b23bf7bc7707dc9d1700c9db343e14dec5d54bbbd59a
+Version/imp=2022.10.083 (Linux64)|00000006789cd32d4acd49ac00000760024a|d281f7a0ebd67a0f3ace0230f6f62941e7e9d30077b1aac3b22b0e54e37007cd
+
+[lmb_bram_if_cntlr]
+A/imp=21|../../../../../../edatools/Xilinx/Vivado/2022.1/data/ip/xilinx/lmb_bram_if_cntlr_v4_0/hdl/lmb_bram_if_cntlr_v4_0_vh_rfs.vhd|4639|1*159302
+BinL64/imp=3*34474
+I=0*105798
+I/imp=0*140688
+M=11|1|vf1|1702630104452|../../../../../../edatools/Xilinx/Vivado/2022.1/data/ip/xilinx/lmb_bram_if_cntlr_v4_0/hdl/lmb_bram_if_cntlr_v4_0_vh_rfs.vhd|0*100532*0xb353b7de33d8aa050a31a44118963c6def8e1d2f|0*105604*0x24f53803c3278f1d7f185bd51c58332c
+M/imp=21|1|vf1|1702630104454|../../../../../../edatools/Xilinx/Vivado/2022.1/data/ip/xilinx/lmb_bram_if_cntlr_v4_0/hdl/lmb_bram_if_cntlr_v4_0_vh_rfs.vhd|0*106049*0xf1495f157cd20ef8eb986b41173e31b93795b457|0*140487*0x4f3a0e4d6b49452134debcca3f6f763f
+R=../../../../../../edatools/Xilinx/Vivado/2022.1/data/ip/xilinx/lmb_bram_if_cntlr_v4_0/hdl/lmb_bram_if_cntlr_v4_0_vh_rfs.vhd|4514
+Version=2022.10.083 (Linux64)|00000006789cd32d4acd49ac00000760024a|827a69190941105288bf4b893b4d70ccf12a0647ccebc359ff41519593ddaa0166e579f88f94074725d584acba456988
+Version/imp=2022.10.083 (Linux64)|00000006789cd32d4acd49ac00000760024a|d281f7a0ebd67a0f3ace0230f6f62941385ef3d45176cc784ddb86cb8873a403
+
+[lmb_bram_if_funcs]
+BinL64/lmb_bram_if_funcs=3*0
+E=1*0
+I=0*1563
+I/lmb_bram_if_funcs=0*4523
+M=3|1|vf1|1702630104080|../../../../../../edatools/Xilinx/Vivado/2022.1/data/ip/xilinx/lmb_bram_if_cntlr_v4_0/hdl/lmb_bram_if_cntlr_v4_0_vh_rfs.vhd|0*738*0x667007a0a0a08c5328c40c83e309750d2605c603|0*1369*0x24f53803c3278f1d7f185bd51c58332c
+M/lmb_bram_if_funcs=4|1|vf1|1702630104083|../../../../../../edatools/Xilinx/Vivado/2022.1/data/ip/xilinx/lmb_bram_if_cntlr_v4_0/hdl/lmb_bram_if_cntlr_v4_0_vh_rfs.vhd|0*1773*0x91cd95867507a4e091c8f3bac1439995b0f6d46d|0*4309*0x4f3a0e4d6b49452134debcca3f6f763f
+R=../../../../../../edatools/Xilinx/Vivado/2022.1/data/ip/xilinx/lmb_bram_if_cntlr_v4_0/hdl/lmb_bram_if_cntlr_v4_0_vh_rfs.vhd|86
+Version=2022.10.083 (Linux64)|00000006789cd32d4acd49ac00000760024a|827a69190941105288bf4b893b4d70cc931ee2419b0f2263dbb7b8fd618e7258e91382aa81c68eca7a7d92e2fea2a373
+Version/lmb_bram_if_funcs=2022.10.083 (Linux64)|00000006789cd32d4acd49ac00000760024a|827a69190941105288bf4b893b4d70cc931ee2419b0f2263dbb7b8fd618e7258e91382aa81c68eca7a7d92e2fea2a373
+
+[lmb_mux]
+A/imp=21|../../../../../../edatools/Xilinx/Vivado/2022.1/data/ip/xilinx/lmb_bram_if_cntlr_v4_0/hdl/lmb_bram_if_cntlr_v4_0_vh_rfs.vhd|3981|1*126967
+BinL64/imp=3*25999
+I=0*86866
+I/imp=0*99268
+M=11|1|vf1|1702630104446|../../../../../../edatools/Xilinx/Vivado/2022.1/data/ip/xilinx/lmb_bram_if_cntlr_v4_0/hdl/lmb_bram_if_cntlr_v4_0_vh_rfs.vhd|0*83053*0x06704f7a70ba88591730c9b5ff13fff30a560d2d|0*86682*0x24f53803c3278f1d7f185bd51c58332c
+M/imp=21|1|vf1|1702630104448|../../../../../../edatools/Xilinx/Vivado/2022.1/data/ip/xilinx/lmb_bram_if_cntlr_v4_0/hdl/lmb_bram_if_cntlr_v4_0_vh_rfs.vhd|0*87188*0xe7c928fc2a325a7064c317183286dd4c8b7b6a0a|0*99077*0x4f3a0e4d6b49452134debcca3f6f763f
+R=../../../../../../edatools/Xilinx/Vivado/2022.1/data/ip/xilinx/lmb_bram_if_cntlr_v4_0/hdl/lmb_bram_if_cntlr_v4_0_vh_rfs.vhd|3893
+Version=2022.10.083 (Linux64)|00000006789cd32d4acd49ac00000760024a|bc189e84e78d9f0ad281f6219cc7429926527262ddaa47cb266f3a3c4d9b973a82240bcd942a54c4703825586ce12510
+Version/imp=2022.10.083 (Linux64)|00000006789cd32d4acd49ac00000760024a|d281f7a0ebd67a0f3ace0230f6f629411ad99ae862d4ef59edce6b50af7d4fbb
+
+[mb_fdre]
+A/imp=A/IMP 21|../../../../../../edatools/Xilinx/Vivado/2022.1/data/ip/xilinx/lmb_bram_if_cntlr_v4_0/hdl/lmb_bram_if_cntlr_v4_0_vh_rfs.vhd|553|1*12177
+BinL64/imp=3*3377
+I=0*17473
+I/imp=I/IMP 0*18625
+M=11|1|vf1|1702630104392|../../../../../../edatools/Xilinx/Vivado/2022.1/data/ip/xilinx/lmb_bram_if_cntlr_v4_0/hdl/lmb_bram_if_cntlr_v4_0_vh_rfs.vhd|0*16772*0x232728decc6b8af15da36140040414abcbef41d2|0*17289*0x24f53803c3278f1d7f185bd51c58332c
+M/imp=M/IMP 21|1|vf1|1702630104394|../../../../../../edatools/Xilinx/Vivado/2022.1/data/ip/xilinx/lmb_bram_if_cntlr_v4_0/hdl/lmb_bram_if_cntlr_v4_0_vh_rfs.vhd|0*17714*0x4cbdbb445a799e0bc2b301ebdb3b7fdff134f691|0*18434*0x4f3a0e4d6b49452134debcca3f6f763f
+R=../../../../../../edatools/Xilinx/Vivado/2022.1/data/ip/xilinx/lmb_bram_if_cntlr_v4_0/hdl/lmb_bram_if_cntlr_v4_0_vh_rfs.vhd|536
+Version=2022.10.083 (Linux64)|00000006789cd32d4acd49ac00000760024a|b75b881232d7f1e2f420b22061cf409226527262ddaa47cb266f3a3c4d9b973a16f28641d0d98675a14958fbf5deefb3
+Version/imp=2022.10.083 (Linux64)|00000006789cd32d4acd49ac00000760024a|d281f7a0ebd67a0f3ace0230f6f62941063fe7979e1336ab7ebf475f4aed36fb
+
+[mb_lut6]
+A/imp=A/IMP 21|../../../../../../edatools/Xilinx/Vivado/2022.1/data/ip/xilinx/lmb_bram_if_cntlr_v4_0/hdl/lmb_bram_if_cntlr_v4_0_vh_rfs.vhd|318|1*2002
+BinL64/imp=3*1269
+I=0*5916
+I/imp=I/IMP 0*7450
+M=11|1|vf1|1702630104087|../../../../../../edatools/Xilinx/Vivado/2022.1/data/ip/xilinx/lmb_bram_if_cntlr_v4_0/hdl/lmb_bram_if_cntlr_v4_0_vh_rfs.vhd|0*5052*0xfa05cc9e117f1156333f2733184b23d2f0df538f|0*5732*0x24f53803c3278f1d7f185bd51c58332c
+M/imp=M/IMP 21|1|vf1|1702630104364|../../../../../../edatools/Xilinx/Vivado/2022.1/data/ip/xilinx/lmb_bram_if_cntlr_v4_0/hdl/lmb_bram_if_cntlr_v4_0_vh_rfs.vhd|0*6200*0xc568cfc9ac0c4a10ea6e12aad524979f08de6ccd|0*7259*0x4f3a0e4d6b49452134debcca3f6f763f
+R=../../../../../../edatools/Xilinx/Vivado/2022.1/data/ip/xilinx/lmb_bram_if_cntlr_v4_0/hdl/lmb_bram_if_cntlr_v4_0_vh_rfs.vhd|299
+Version=2022.10.083 (Linux64)|00000006789cd32d4acd49ac00000760024a|d50174bb3e38b8ccdba56d1687693bf626527262ddaa47cb266f3a3c4d9b973aa730ae8c0bb06e08bbafddf001247c20
+Version/imp=2022.10.083 (Linux64)|00000006789cd32d4acd49ac00000760024a|d281f7a0ebd67a0f3ace0230f6f62941b2c9b57f3808e2427feb5ba8089db41b
+
+[mb_muxcy]
+A/imp=A/IMP 21|../../../../../../edatools/Xilinx/Vivado/2022.1/data/ip/xilinx/lmb_bram_if_cntlr_v4_0/hdl/lmb_bram_if_cntlr_v4_0_vh_rfs.vhd|381|1*5416
+BinL64/imp=3*2088
+I=0*8716
+I/imp=I/IMP 0*9640
+M=11|1|vf1|1702630104368|../../../../../../edatools/Xilinx/Vivado/2022.1/data/ip/xilinx/lmb_bram_if_cntlr_v4_0/hdl/lmb_bram_if_cntlr_v4_0_vh_rfs.vhd|0*8048*0x3684b62c8c4c5980c176736e756b2e7e525750df|0*8531*0x24f53803c3278f1d7f185bd51c58332c
+M/imp=M/IMP 21|1|vf1|1702630104370|../../../../../../edatools/Xilinx/Vivado/2022.1/data/ip/xilinx/lmb_bram_if_cntlr_v4_0/hdl/lmb_bram_if_cntlr_v4_0_vh_rfs.vhd|0*8958*0xd83caeea4807644a22f3b58f1b00f250b58f9303|0*9448*0x4f3a0e4d6b49452134debcca3f6f763f
+R=../../../../../../edatools/Xilinx/Vivado/2022.1/data/ip/xilinx/lmb_bram_if_cntlr_v4_0/hdl/lmb_bram_if_cntlr_v4_0_vh_rfs.vhd|366
+Version=2022.10.083 (Linux64)|00000006789cd32d4acd49ac00000760024a|3d236c3bc25554db82e54dfc652c3292f27dd84861ac60a33bfd953b47c67df903c1e1b02c6bba296297a67a630bd54f
+Version/imp=2022.10.083 (Linux64)|00000006789cd32d4acd49ac00000760024a|d281f7a0ebd67a0f3ace0230f6f62941734c86b389207e7b321bdaad6843f226
+
+[mb_muxf7]
+A/imp=A/IMP 21|../../../../../../edatools/Xilinx/Vivado/2022.1/data/ip/xilinx/lmb_bram_if_cntlr_v4_0/hdl/lmb_bram_if_cntlr_v4_0_vh_rfs.vhd|465|1*8751
+BinL64/imp=3*2723
+I=0*13057
+I/imp=I/IMP 0*13976
+M=11|1|vf1|1702630104380|../../../../../../edatools/Xilinx/Vivado/2022.1/data/ip/xilinx/lmb_bram_if_cntlr_v4_0/hdl/lmb_bram_if_cntlr_v4_0_vh_rfs.vhd|0*12390*0xab4217aeb7fd2891d651bf3996bfc5b8ff4368d9|0*12872*0x24f53803c3278f1d7f185bd51c58332c
+M/imp=M/IMP 21|1|vf1|1702630104382|../../../../../../edatools/Xilinx/Vivado/2022.1/data/ip/xilinx/lmb_bram_if_cntlr_v4_0/hdl/lmb_bram_if_cntlr_v4_0_vh_rfs.vhd|0*13299*0xefe45cb4489b6e0954ef7c11f8ad144edf8faaaf|0*13784*0x4f3a0e4d6b49452134debcca3f6f763f
+R=../../../../../../edatools/Xilinx/Vivado/2022.1/data/ip/xilinx/lmb_bram_if_cntlr_v4_0/hdl/lmb_bram_if_cntlr_v4_0_vh_rfs.vhd|450
+Version=2022.10.083 (Linux64)|00000006789cd32d4acd49ac00000760024a|ffec0f8ea8536ae693a313d93a35caf7608a23f978d496696ba22857755a1d045d2acbfdcc04bff0ba45897e4354549a
+Version/imp=2022.10.083 (Linux64)|00000006789cd32d4acd49ac00000760024a|d281f7a0ebd67a0f3ace0230f6f62941049a45ae7528563ae75f2de21126d719
+
+[mb_muxf8]
+A/imp=A/IMP 21|../../../../../../edatools/Xilinx/Vivado/2022.1/data/ip/xilinx/lmb_bram_if_cntlr_v4_0/hdl/lmb_bram_if_cntlr_v4_0_vh_rfs.vhd|508|1*10464
+BinL64/imp=3*3050
+I=0*15240
+I/imp=I/IMP 0*16159
+M=11|1|vf1|1702630104386|../../../../../../edatools/Xilinx/Vivado/2022.1/data/ip/xilinx/lmb_bram_if_cntlr_v4_0/hdl/lmb_bram_if_cntlr_v4_0_vh_rfs.vhd|0*14573*0x8db1accf2ff6bed0c046f9434a86812b549476ea|0*15055*0x24f53803c3278f1d7f185bd51c58332c
+M/imp=M/IMP 21|1|vf1|1702630104388|../../../../../../edatools/Xilinx/Vivado/2022.1/data/ip/xilinx/lmb_bram_if_cntlr_v4_0/hdl/lmb_bram_if_cntlr_v4_0_vh_rfs.vhd|0*15482*0xfe9b0a06dad80ce50cf2b360300b082946f7ce0e|0*15967*0x4f3a0e4d6b49452134debcca3f6f763f
+R=../../../../../../edatools/Xilinx/Vivado/2022.1/data/ip/xilinx/lmb_bram_if_cntlr_v4_0/hdl/lmb_bram_if_cntlr_v4_0_vh_rfs.vhd|493
+Version=2022.10.083 (Linux64)|00000006789cd32d4acd49ac00000760024a|89ff7e029a15c11f5045a1fc087177c311509bd0ab67e8f7f285dea6f1275daba67077e2774cc035668863f8c8be6dd5
+Version/imp=2022.10.083 (Linux64)|00000006789cd32d4acd49ac00000760024a|d281f7a0ebd67a0f3ace0230f6f629416440cecd26bb5cbd08c419654235d1c8
+
+[mb_xorcy]
+A/imp=A/IMP 21|../../../../../../edatools/Xilinx/Vivado/2022.1/data/ip/xilinx/lmb_bram_if_cntlr_v4_0/hdl/lmb_bram_if_cntlr_v4_0_vh_rfs.vhd|423|1*7139
+BinL64/imp=3*2416
+I=0*10886
+I/imp=I/IMP 0*11790
+M=11|1|vf1|1702630104374|../../../../../../edatools/Xilinx/Vivado/2022.1/data/ip/xilinx/lmb_bram_if_cntlr_v4_0/hdl/lmb_bram_if_cntlr_v4_0_vh_rfs.vhd|0*10238*0x580a49f506915c698b572fe7fa023b1eff63dc28|0*10701*0x24f53803c3278f1d7f185bd51c58332c
+M/imp=M/IMP 21|1|vf1|1702630104376|../../../../../../edatools/Xilinx/Vivado/2022.1/data/ip/xilinx/lmb_bram_if_cntlr_v4_0/hdl/lmb_bram_if_cntlr_v4_0_vh_rfs.vhd|0*11128*0xb7cc30b95555399eafed6afb9e0eeeafbb7c8602|0*11598*0x4f3a0e4d6b49452134debcca3f6f763f
+R=../../../../../../edatools/Xilinx/Vivado/2022.1/data/ip/xilinx/lmb_bram_if_cntlr_v4_0/hdl/lmb_bram_if_cntlr_v4_0_vh_rfs.vhd|409
+Version=2022.10.083 (Linux64)|00000006789cd32d4acd49ac00000760024a|19d6a8d6f3a813450c9daf3cba8bbeab3d6ac2656ee8a4b7c6159d96b71f53df135edfeac48d466ffb781ada8a61b9e8
+Version/imp=2022.10.083 (Linux64)|00000006789cd32d4acd49ac00000760024a|d281f7a0ebd67a0f3ace0230f6f629414e4af6f53765f1299eda01fe37406112
+
+[parity]
+A/imp=A/IMP 21|../../../../../../edatools/Xilinx/Vivado/2022.1/data/ip/xilinx/lmb_bram_if_cntlr_v4_0/hdl/lmb_bram_if_cntlr_v4_0_vh_rfs.vhd|926|1*19783
+BinL64/imp=3*4802
+I=0*24043
+I/imp=I/IMP 0*28922
+M=11|1|vf1|1702630104404|../../../../../../edatools/Xilinx/Vivado/2022.1/data/ip/xilinx/lmb_bram_if_cntlr_v4_0/hdl/lmb_bram_if_cntlr_v4_0_vh_rfs.vhd|0*23373*0x6217cca2403d132870eb8e206bd149e7e4d0f733|0*23860*0x24f53803c3278f1d7f185bd51c58332c
+M/imp=M/IMP 21|1|vf1|1702630104406|../../../../../../edatools/Xilinx/Vivado/2022.1/data/ip/xilinx/lmb_bram_if_cntlr_v4_0/hdl/lmb_bram_if_cntlr_v4_0_vh_rfs.vhd|0*24283*0xaeed7d40a04ec35d1ee90b702979f225ab08c880|0*28732*0x4f3a0e4d6b49452134debcca3f6f763f
+R=../../../../../../edatools/Xilinx/Vivado/2022.1/data/ip/xilinx/lmb_bram_if_cntlr_v4_0/hdl/lmb_bram_if_cntlr_v4_0_vh_rfs.vhd|915
+Version=2022.10.083 (Linux64)|00000006789cd32d4acd49ac00000760024a|ed2eae551e6e8452900f0238ddcba79072198e12ed3f1fb9fe344663e1603fb0
+Version/imp=2022.10.083 (Linux64)|00000006789cd32d4acd49ac00000760024a|d281f7a0ebd67a0f3ace0230f6f62941dd043bad9c491b5ec107f27037fa5cf3
+
+[parityenable]
+A/imp=A/IMP 21|../../../../../../edatools/Xilinx/Vivado/2022.1/data/ip/xilinx/lmb_bram_if_cntlr_v4_0/hdl/lmb_bram_if_cntlr_v4_0_vh_rfs.vhd|1273|1*28839
+BinL64/imp=3*6143
+I=0*30284
+I/imp=I/IMP 0*32090
+M=11|1|vf1|1702630104410|../../../../../../edatools/Xilinx/Vivado/2022.1/data/ip/xilinx/lmb_bram_if_cntlr_v4_0/hdl/lmb_bram_if_cntlr_v4_0_vh_rfs.vhd|0*29533*0x83c0a3ef05ce437b608e13b16fb1e9c26dbba3b3|0*30095*0x24f53803c3278f1d7f185bd51c58332c
+M/imp=M/IMP 21|1|vf1|1702630104412|../../../../../../edatools/Xilinx/Vivado/2022.1/data/ip/xilinx/lmb_bram_if_cntlr_v4_0/hdl/lmb_bram_if_cntlr_v4_0_vh_rfs.vhd|0*30530*0xd4b66f7e4b2bc91846d0a676325234c66a7af1b2|0*31894*0x4f3a0e4d6b49452134debcca3f6f763f
+R=../../../../../../edatools/Xilinx/Vivado/2022.1/data/ip/xilinx/lmb_bram_if_cntlr_v4_0/hdl/lmb_bram_if_cntlr_v4_0_vh_rfs.vhd|1261
+Version=2022.10.083 (Linux64)|00000006789cd32d4acd49ac00000760024a|4c0eac20f35bf6b99ba3db34d139d99c0e81f8c3b81847512a8ac7f1653d044302ae73f3b22fce3d576f4fd58a59f250
+Version/imp=2022.10.083 (Linux64)|00000006789cd32d4acd49ac00000760024a|d281f7a0ebd67a0f3ace0230f6f62941ae3bc5277534d1d4154155eda2a67796
+
+[pselect_mask]
+A/imp=21|../../../../../../edatools/Xilinx/Vivado/2022.1/data/ip/xilinx/lmb_bram_if_cntlr_v4_0/hdl/lmb_bram_if_cntlr_v4_0_vh_rfs.vhd|3491|1*118555
+BinL64/imp=3*21511
+I=0*75039
+I/imp=0*76597
+M=11|1|vf1|1702630104434|../../../../../../edatools/Xilinx/Vivado/2022.1/data/ip/xilinx/lmb_bram_if_cntlr_v4_0/hdl/lmb_bram_if_cntlr_v4_0_vh_rfs.vhd|0*74131*0xfc83f989e6379a745a02bdb99b3262a42134276b|0*74850*0x24f53803c3278f1d7f185bd51c58332c
+M/imp=21|1|vf1|1702630104436|../../../../../../edatools/Xilinx/Vivado/2022.1/data/ip/xilinx/lmb_bram_if_cntlr_v4_0/hdl/lmb_bram_if_cntlr_v4_0_vh_rfs.vhd|0*75325*0xa9c8bb7aa29cefa28e6f9c26907dd239be751a75|0*76401*0x4f3a0e4d6b49452134debcca3f6f763f
+R=../../../../../../edatools/Xilinx/Vivado/2022.1/data/ip/xilinx/lmb_bram_if_cntlr_v4_0/hdl/lmb_bram_if_cntlr_v4_0_vh_rfs.vhd|3476
+Version=2022.10.083 (Linux64)|00000006789cd32d4acd49ac00000760024a|8df88972f74e8fb60e613144b920c98ced7c14b5b9aceb55c075d105f07ec01075956245dff1e27f07b0dc9961a9ad99
+Version/imp=2022.10.083 (Linux64)|00000006789cd32d4acd49ac00000760024a|d281f7a0ebd67a0f3ace0230f6f6294171176096cbad38ba7ca6d31b164a37d3
+
+[xor18]
+A/imp=A/IMP 21|../../../../../../edatools/Xilinx/Vivado/2022.1/data/ip/xilinx/lmb_bram_if_cntlr_v4_0/hdl/lmb_bram_if_cntlr_v4_0_vh_rfs.vhd|696|1*14694
+BinL64/imp=3*4253
+I=0*19888
+I/imp=I/IMP 0*22777
+M=11|1|vf1|1702630104398|../../../../../../edatools/Xilinx/Vivado/2022.1/data/ip/xilinx/lmb_bram_if_cntlr_v4_0/hdl/lmb_bram_if_cntlr_v4_0_vh_rfs.vhd|0*19226*0x0eebc8867d82580ac0b192a2a7f4697a6f236b69|0*19706*0x24f53803c3278f1d7f185bd51c58332c
+M/imp=M/IMP 21|1|vf1|1702630104400|../../../../../../edatools/Xilinx/Vivado/2022.1/data/ip/xilinx/lmb_bram_if_cntlr_v4_0/hdl/lmb_bram_if_cntlr_v4_0_vh_rfs.vhd|0*20127*0x05b65a3ef45afaa6243c75e8a5d73e5bfe8d8404|0*22588*0x4f3a0e4d6b49452134debcca3f6f763f
+R=../../../../../../edatools/Xilinx/Vivado/2022.1/data/ip/xilinx/lmb_bram_if_cntlr_v4_0/hdl/lmb_bram_if_cntlr_v4_0_vh_rfs.vhd|688
+Version=2022.10.083 (Linux64)|00000006789cd32d4acd49ac00000760024a|3b70b3ce1f12d69b4f513574ad8a912a2f8483bc549e8bf9822e111d0a9b3ef4
+Version/imp=2022.10.083 (Linux64)|00000006789cd32d4acd49ac00000760024a|d281f7a0ebd67a0f3ace0230f6f6294131c71578cc8a631d5957436ffc2b0008
+
+[~U]
+axi_interface=11|0*76887|
+checkbit_handler=11|0*32377|
+correct_one_bit=Correct_One_Bit 11|0*67065|
+correct_one_bit_64=Correct_One_Bit_64 11|0*70450|
+lmb_bram_if_cntlr=11|0*99672|
+lmb_bram_if_funcs=3|0*0|0*232
+lmb_mux=11|0*82444|
+mb_fdre=MB_FDRE 11|0*16524|
+mb_lut6=MB_LUT6 11|0*4792|
+mb_muxcy=MB_MUXCY 11|0*7813|
+mb_muxf7=MB_MUXF7 11|0*12156|
+mb_muxf8=MB_MUXF8 11|0*14339|
+mb_xorcy=MB_XORCY 11|0*10007|
+parity=Parity 11|0*23119|
+parityenable=ParityEnable 11|0*29262|
+pselect_mask=11|0*73869|
+xor18=XOR18 11|0*18989|

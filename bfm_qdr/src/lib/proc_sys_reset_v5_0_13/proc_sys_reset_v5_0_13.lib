@@ -1,0 +1,60 @@
+timestamp=1702630631017
+
+[~A]
+ModifyID=1
+Version=74
+
+[~MFT]
+0=28|0proc_sys_reset_v5_0_13.mgf|19596|0
+1=4|1proc_sys_reset_v5_0_13.mgf|14682|0
+3=4|3proc_sys_reset_v5_0_13.mgf|5468|0
+
+[lpf]
+A/imp=21|../../../../../../edatools/Xilinx/Vivado/2022.1/data/ip/xilinx/proc_sys_reset_v5_0/hdl/proc_sys_reset_v5_0_vh_rfs.vhd|816|1*7084
+BinL64/imp=3*3075
+I=0*9428
+I/imp=0*14581
+M=11|1|vf1|1702630630993|../../../../../../edatools/Xilinx/Vivado/2022.1/data/ip/xilinx/proc_sys_reset_v5_0/hdl/proc_sys_reset_v5_0_vh_rfs.vhd|0*8584*0xa1f8d53612cb9e0dfad9f69251b517ada27a6ce5|0*9254*0x24f53803c3278f1d7f185bd51c58332c
+M/imp=21|1|vf1|1702630630996|../../../../../../edatools/Xilinx/Vivado/2022.1/data/ip/xilinx/proc_sys_reset_v5_0/hdl/proc_sys_reset_v5_0_vh_rfs.vhd|0*9656*0xf39fb8779f8e2b661e9f9dbf289e280cb648a007|0*14400*0x4f3a0e4d6b49452134debcca3f6f763f
+R=../../../../../../edatools/Xilinx/Vivado/2022.1/data/ip/xilinx/proc_sys_reset_v5_0/hdl/proc_sys_reset_v5_0_vh_rfs.vhd|797
+Version=2022.10.083 (Linux64)|00000006789cd32d4acd49ac00000760024a|bfba9f48048bc4e660d870faeafc12146a803b2af4600cafee09b6299212b7ab
+Version/imp=2022.10.083 (Linux64)|00000006789cd32d4acd49ac00000760024a|d281f7a0ebd67a0f3ace0230f6f629416a803b2af4600cafee09b6299212b7ab
+
+[proc_sys_reset]
+A/imp=21|../../../../../../edatools/Xilinx/Vivado/2022.1/data/ip/xilinx/proc_sys_reset_v5_0/hdl/proc_sys_reset_v5_0_vh_rfs.vhd|1323|1*14682
+BinL64/imp=3*5468
+I=0*16743
+I/imp=0*19596
+M=11|1|vf1|1702630631000|../../../../../../edatools/Xilinx/Vivado/2022.1/data/ip/xilinx/proc_sys_reset_v5_0/hdl/proc_sys_reset_v5_0_vh_rfs.vhd|0*15336*0x66447b0c27b067033a5e99df14a23fb0e02c02fa|0*16558*0x24f53803c3278f1d7f185bd51c58332c
+M/imp=21|1|vf1|1702630631002|../../../../../../edatools/Xilinx/Vivado/2022.1/data/ip/xilinx/proc_sys_reset_v5_0/hdl/proc_sys_reset_v5_0_vh_rfs.vhd|0*17035*0x1c2ed7dd0ca9cd1a67208e8762830491689563b2|0*19404*0x4f3a0e4d6b49452134debcca3f6f763f
+R=../../../../../../edatools/Xilinx/Vivado/2022.1/data/ip/xilinx/proc_sys_reset_v5_0/hdl/proc_sys_reset_v5_0_vh_rfs.vhd|1264
+Version=2022.10.083 (Linux64)|00000006789cd32d4acd49ac00000760024a|b81ef455536e61f64a647f3613fb4388095b963d046589d2c970aabfcdbdb33053019ac47d9f470ae1428d0539cf39b5
+Version/imp=2022.10.083 (Linux64)|00000006789cd32d4acd49ac00000760024a|d281f7a0ebd67a0f3ace0230f6f62941d4c8299a7edc1afed6a82bc79eb335c6
+
+[sequence_psr]
+A/imp=21|../../../../../../edatools/Xilinx/Vivado/2022.1/data/ip/xilinx/proc_sys_reset_v5_0/hdl/proc_sys_reset_v5_0_vh_rfs.vhd|301|1*1580
+BinL64/imp=3*901
+I=0*3005
+I/imp=0*7944
+M=11|1|vf1|1702630630987|../../../../../../edatools/Xilinx/Vivado/2022.1/data/ip/xilinx/proc_sys_reset_v5_0/hdl/proc_sys_reset_v5_0_vh_rfs.vhd|0*2304*0x76c0a0c73d8f70da5d5a5e782db11089dbfb13b2|0*2822*0x24f53803c3278f1d7f185bd51c58332c
+M/imp=21|1|vf1|1702630630989|../../../../../../edatools/Xilinx/Vivado/2022.1/data/ip/xilinx/proc_sys_reset_v5_0/hdl/proc_sys_reset_v5_0_vh_rfs.vhd|0*3327*0xe153470ef133ddb97b6d0631e6bd56db473f162b|0*7754*0x4f3a0e4d6b49452134debcca3f6f763f
+R=../../../../../../edatools/Xilinx/Vivado/2022.1/data/ip/xilinx/proc_sys_reset_v5_0/hdl/proc_sys_reset_v5_0_vh_rfs.vhd|286
+Version=2022.10.083 (Linux64)|00000006789cd32d4acd49ac00000760024a|e0b8e1716156e82e7b86f69a9cbd915233e1c871f020701c0b20b3e06b7c1f776a69b9257c600732aebfbc2f8a36a20a
+Version/imp=2022.10.083 (Linux64)|00000006789cd32d4acd49ac00000760024a|d281f7a0ebd67a0f3ace0230f6f629416d0b579822ff97b355a4541483b0dde3
+
+[upcnt_n]
+A/imp=21|../../../../../../edatools/Xilinx/Vivado/2022.1/data/ip/xilinx/proc_sys_reset_v5_0/hdl/proc_sys_reset_v5_0_vh_rfs.vhd|125|1*0
+BinL64/imp=3*0
+I=0*916
+I/imp=0*1846
+M=11|1|vf1|1702630630712|../../../../../../edatools/Xilinx/Vivado/2022.1/data/ip/xilinx/proc_sys_reset_v5_0/hdl/proc_sys_reset_v5_0_vh_rfs.vhd|0*235*0xb7700b7495488851a39b152e4358efbcfcc0a8f3|0*738*0x24f53803c3278f1d7f185bd51c58332c
+M/imp=21|1|vf1|1702630630714|../../../../../../edatools/Xilinx/Vivado/2022.1/data/ip/xilinx/proc_sys_reset_v5_0/hdl/proc_sys_reset_v5_0_vh_rfs.vhd|0*1148*0x92da42ed1c4cd74d71df8ac9f880d303dd9e7d97|0*1661*0x4f3a0e4d6b49452134debcca3f6f763f
+R=../../../../../../edatools/Xilinx/Vivado/2022.1/data/ip/xilinx/proc_sys_reset_v5_0/hdl/proc_sys_reset_v5_0_vh_rfs.vhd|109
+Version=2022.10.083 (Linux64)|00000006789cd32d4acd49ac00000760024a|c036af091402ac32fad4c874223529dd26527262ddaa47cb266f3a3c4d9b973a9ae44cdce1fd5e1fe05233760a7a3939
+Version/imp=2022.10.083 (Linux64)|00000006789cd32d4acd49ac00000760024a|d281f7a0ebd67a0f3ace0230f6f6294184d3cef16edf54a69cd46bc651250af8
+
+[~U]
+lpf=11|0*8304|
+proc_sys_reset=11|0*14893|
+sequence_psr=11|0*2082|
+upcnt_n=11|0*0|

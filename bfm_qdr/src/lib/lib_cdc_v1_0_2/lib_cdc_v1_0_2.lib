@@ -1,0 +1,24 @@
+timestamp=1702630122533
+
+[~A]
+ModifyID=1
+Version=74
+
+[~MFT]
+0=7|0lib_cdc_v1_0_2.mgf|17883|0
+1=1|1lib_cdc_v1_0_2.mgf|0|0
+3=1|3lib_cdc_v1_0_2.mgf|0|0
+
+[cdc_sync]
+A/implementation=21|../../../../../../edatools/Xilinx/Vivado/2022.1/data/ip/xilinx/lib_cdc_v1_0/hdl/lib_cdc_v1_0_rfs.vhd|106|1*0
+BinL64/implementation=3*0
+I=0*1405
+I/implementation=0*17883
+M=11|1|vf1|1702630122508|../../../../../../edatools/Xilinx/Vivado/2022.1/data/ip/xilinx/lib_cdc_v1_0/hdl/lib_cdc_v1_0_rfs.vhd|0*337*0xd291be0c295279fa6c91bb5237e076c4c813c39d|0*1243*0x24f53803c3278f1d7f185bd51c58332c
+M/implementation=21|1|vf1|1702630122514|../../../../../../edatools/Xilinx/Vivado/2022.1/data/ip/xilinx/lib_cdc_v1_0/hdl/lib_cdc_v1_0_rfs.vhd|0*1721*0xfa1b6e098753191eb6067a6fbbe3b61dcb7fb930|0*17703*0x4f3a0e4d6b49452134debcca3f6f763f
+R=../../../../../../edatools/Xilinx/Vivado/2022.1/data/ip/xilinx/lib_cdc_v1_0/hdl/lib_cdc_v1_0_rfs.vhd|64
+Version=2022.10.083 (Linux64)|00000006789cd32d4acd49ac00000760024a|3ead827515370a3ceb4da6ec28532734729e6221e4efaa6a8714f045f53f5933e43c38d40da92f9f02df39645adec524
+Version/implementation=2022.10.083 (Linux64)|00000006789cd32d4acd49ac00000760024a|f5ac8863001614f90f206103e7ca42563e22f26c8e6d4ed262726994d450fb930a9c6f121bf26c397d8a01bbfb791ea3
+
+[~U]
+cdc_sync=11|0*0|

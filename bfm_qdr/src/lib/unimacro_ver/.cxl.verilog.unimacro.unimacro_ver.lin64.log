@@ -1,0 +1,21 @@
+WARNING VCP2515 "Undefined module: RAMB18 was used. Port connection rules will not be checked at such instantiations." "/edatools/Xilinx/Vivado/2022.1/data/verilog/src/unimacro/BRAM_TDP_MACRO.v" 1242  19
+WARNING VCP2515 "Undefined module: RAMB36 was used. Port connection rules will not be checked at such instantiations." "/edatools/Xilinx/Vivado/2022.1/data/verilog/src/unimacro/BRAM_TDP_MACRO.v" 1435  19
+WARNING VCP2515 "Undefined module: RAMB18E1 was used. Port connection rules will not be checked at such instantiations." "/edatools/Xilinx/Vivado/2022.1/data/verilog/src/unimacro/BRAM_TDP_MACRO.v" 1555  19
+WARNING VCP2515 "Undefined module: RAMB36E1 was used. Port connection rules will not be checked at such instantiations." "/edatools/Xilinx/Vivado/2022.1/data/verilog/src/unimacro/BRAM_TDP_MACRO.v" 1755  19
+WARNING VCP2515 "Undefined module: RAMB8BWER was used. Port connection rules will not be checked at such instantiations." "/edatools/Xilinx/Vivado/2022.1/data/verilog/src/unimacro/BRAM_TDP_MACRO.v" 1833  19
+WARNING VCP2515 "Undefined module: RAMB16BWER was used. Port connection rules will not be checked at such instantiations." "/edatools/Xilinx/Vivado/2022.1/data/verilog/src/unimacro/BRAM_TDP_MACRO.v" 1943  19
+WARNING VCP2515 "Undefined module: DSP48E was used. Port connection rules will not be checked at such instantiations." "/edatools/Xilinx/Vivado/2022.1/data/verilog/src/unimacro/COUNTER_LOAD_MACRO.v" 134  10
+WARNING VCP2515 "Undefined module: DSP48E1 was used. Port connection rules will not be checked at such instantiations." "/edatools/Xilinx/Vivado/2022.1/data/verilog/src/unimacro/COUNTER_LOAD_MACRO.v" 195  10
+WARNING VCP2515 "Undefined module: DSP48A1 was used. Port connection rules will not be checked at such instantiations." "/edatools/Xilinx/Vivado/2022.1/data/verilog/src/unimacro/COUNTER_LOAD_MACRO.v" 231  12
+WARNING VCP2515 "Undefined module: RAMB18SDP was used. Port connection rules will not be checked at such instantiations." "/edatools/Xilinx/Vivado/2022.1/data/verilog/src/unimacro/BRAM_SDP_MACRO.v" 915  18
+WARNING VCP2515 "Undefined module: RAMB36SDP was used. Port connection rules will not be checked at such instantiations." "/edatools/Xilinx/Vivado/2022.1/data/verilog/src/unimacro/BRAM_SDP_MACRO.v" 1259  18
+WARNING VCP2515 "Undefined module: FIFO18 was used. Port connection rules will not be checked at such instantiations." "/edatools/Xilinx/Vivado/2022.1/data/verilog/src/unimacro/FIFO_DUALCLOCK_MACRO.v" 217  21
+WARNING VCP2515 "Undefined module: FIFO18_36 was used. Port connection rules will not be checked at such instantiations." "/edatools/Xilinx/Vivado/2022.1/data/verilog/src/unimacro/FIFO_DUALCLOCK_MACRO.v" 246  21
+WARNING VCP2515 "Undefined module: FIFO36 was used. Port connection rules will not be checked at such instantiations." "/edatools/Xilinx/Vivado/2022.1/data/verilog/src/unimacro/FIFO_DUALCLOCK_MACRO.v" 276  21
+WARNING VCP2515 "Undefined module: FIFO36_72 was used. Port connection rules will not be checked at such instantiations." "/edatools/Xilinx/Vivado/2022.1/data/verilog/src/unimacro/FIFO_DUALCLOCK_MACRO.v" 308  21
+WARNING VCP2515 "Undefined module: FIFO18E1 was used. Port connection rules will not be checked at such instantiations." "/edatools/Xilinx/Vivado/2022.1/data/verilog/src/unimacro/FIFO_DUALCLOCK_MACRO.v" 346  21
+WARNING VCP2515 "Undefined module: FIFO36E1 was used. Port connection rules will not be checked at such instantiations." "/edatools/Xilinx/Vivado/2022.1/data/verilog/src/unimacro/FIFO_DUALCLOCK_MACRO.v" 420  21
+MESSAGE_SP VCP2876 "Implicit net declaration, symbol REGCCE has not been declared in module BRAM_SINGLE_MACRO in generate block bram9_single_stan_1." "/edatools/Xilinx/Vivado/2022.1/data/verilog/src/unimacro/BRAM_SINGLE_MACRO.v" 2170  32
+MESSAGE "Unit top modules: BRAM_TDP_MACRO COUNTER_LOAD_MACRO BRAM_SDP_MACRO ADDSUB_MACRO EQ_COMPARE_MACRO FIFO_DUALCLOCK_MACRO COUNTER_TC_MACRO FIFO_SYNC_MACRO MULT_MACRO BRAM_SINGLE_MACRO ADDMACC_MACRO MACC_MACRO."
+SUCCESS "Compile success 0 Errors 17 Warnings  Analysis time: 1[s]."
+done

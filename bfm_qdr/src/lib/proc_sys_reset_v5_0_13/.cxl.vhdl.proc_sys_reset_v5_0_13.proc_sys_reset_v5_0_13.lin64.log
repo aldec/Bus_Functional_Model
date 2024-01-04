@@ -1,0 +1,11 @@
+Aldec, Inc. VHDL Compiler, build 2022.10.083
+VLM Initialized with path: "/remote/nas/ahome/matre/PCI/BFM_QDR/FPGA/library.cfg".
+COMP96 Compile Entity "upcnt_n"
+COMP96 Compile Architecture "imp" of Entity "upcnt_n"
+COMP96 Compile Entity "sequence_psr"
+COMP96 Compile Architecture "imp" of Entity "sequence_psr"
+COMP96 Compile Entity "lpf"
+COMP96 Compile Architecture "imp" of Entity "lpf"
+COMP96 Compile Entity "proc_sys_reset"
+COMP96 Compile Architecture "imp" of Entity "proc_sys_reset"
+COMP96 Compile success 0 Errors 0 Warnings  Analysis time :  0.3 [s]

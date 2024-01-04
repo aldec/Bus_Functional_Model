@@ -1,0 +1,133 @@
+timestamp=1702630133892
+
+[~A]
+/remote/nas/edatools/Xilinx/Vivado/2022.1/data/ip/xilinx/blk_mem_gen_v8_4/simulation/blk_mem_gen_v8_4.v=0*8814*40447
+LastVerilogToplevel=blk_mem_gen_v8_4_5
+ModifyID=1
+Version=74
+
+[~MFT]
+0=17|0blk_mem_gen_v8_4_5.mgf|40447|0
+1=15|1blk_mem_gen_v8_4_5.mgf|136623|0
+3=30|3blk_mem_gen_v8_4_5.mgf|135057|0
+
+[$root]
+A/$root=22|||1*0
+BinL64/$root=3*0
+SLP=3*106
+Version=2022.10.083 (Linux64)|0000003d789cd3cecc4b4ec92cd2d62f4acdcd2f49d5cf4b2cd64fccc8cf4dd5cf4d2c294ad50f70f6d47772f38d0f7409d2770b7077d4d74baec8d1cb2cd007eacb01008ed6149f|c73a565f2ade592f8ac1c68f484c9216a7485c06b79ed2dfbc81e6d1bcde4caa
+
+[STATE_LOGIC_v8_4]
+A/STATE_LOGIC_v8_4=22|../../../../../../edatools/Xilinx/Vivado/2022.1/data/ip/xilinx/blk_mem_gen_v8_4/simulation/blk_mem_gen_v8_4.v|73|1*374
+BinL64/STATE_LOGIC_v8_4=3*174
+R=../../../../../../edatools/Xilinx/Vivado/2022.1/data/ip/xilinx/blk_mem_gen_v8_4/simulation/blk_mem_gen_v8_4.v|73
+SLP=3*1091
+Version=2022.10.083 (Linux64)|0000003d789cd3cecc4b4ec92cd2d62f4acdcd2f49d5cf4b2cd64fccc8cf4dd5cf4d2c294ad50f70f6d47772f38d0f7409d2770b7077d4d74baec8d1cb2cd007eacb01008ed6149f|9e7694316f50bbb1d835677aa0904689bc12b032bf05a20870d8729f66906ab6aafb716c0345e6b69e4f76389e0af2eb
+
+[beh_vlog_ff_ce_clr_v8_4]
+A/beh_vlog_ff_ce_clr_v8_4=22|../../../../../../edatools/Xilinx/Vivado/2022.1/data/ip/xilinx/blk_mem_gen_v8_4/simulation/blk_mem_gen_v8_4.v|148|1*6447
+BinL64/beh_vlog_ff_ce_clr_v8_4=3*4085
+R=../../../../../../edatools/Xilinx/Vivado/2022.1/data/ip/xilinx/blk_mem_gen_v8_4/simulation/blk_mem_gen_v8_4.v|148
+SLP=3*4824
+Version=2022.10.083 (Linux64)|0000003d789cd3cecc4b4ec92cd2d62f4acdcd2f49d5cf4b2cd64fccc8cf4dd5cf4d2c294ad50f70f6d47772f38d0f7409d2770b7077d4d74baec8d1cb2cd007eacb01008ed6149f|b279dc021556a2bd20cff8bebc1eefb682cc303bc087fd4719a04ed60675593226527262ddaa47cb266f3a3c4d9b973a988386d5a49ef0711be4767f4fb57e2a
+
+[beh_vlog_ff_clr_v8_4]
+A/beh_vlog_ff_clr_v8_4=22|../../../../../../edatools/Xilinx/Vivado/2022.1/data/ip/xilinx/blk_mem_gen_v8_4/simulation/blk_mem_gen_v8_4.v|109|1*3209
+BinL64/beh_vlog_ff_clr_v8_4=3*2084
+R=../../../../../../edatools/Xilinx/Vivado/2022.1/data/ip/xilinx/blk_mem_gen_v8_4/simulation/blk_mem_gen_v8_4.v|109
+SLP=3*2801
+Version=2022.10.083 (Linux64)|0000003d789cd3cecc4b4ec92cd2d62f4acdcd2f49d5cf4b2cd64fccc8cf4dd5cf4d2c294ad50f70f6d47772f38d0f7409d2770b7077d4d74baec8d1cb2cd007eacb01008ed6149f|b279dc021556a2bd20cff8bebc1eefb67eb5e1d474a1fd87fe3fa2f2f37494c996d073f06e231f4f83eb220fdd825ee4
+
+[beh_vlog_ff_pre_v8_4]
+A/beh_vlog_ff_pre_v8_4=22|../../../../../../edatools/Xilinx/Vivado/2022.1/data/ip/xilinx/blk_mem_gen_v8_4/simulation/blk_mem_gen_v8_4.v|129|1*4828
+BinL64/beh_vlog_ff_pre_v8_4=3*3082
+R=../../../../../../edatools/Xilinx/Vivado/2022.1/data/ip/xilinx/blk_mem_gen_v8_4/simulation/blk_mem_gen_v8_4.v|129
+SLP=3*3801
+Version=2022.10.083 (Linux64)|0000003d789cd3cecc4b4ec92cd2d62f4acdcd2f49d5cf4b2cd64fccc8cf4dd5cf4d2c294ad50f70f6d47772f38d0f7409d2770b7077d4d74baec8d1cb2cd007eacb01008ed6149f|06ca7d99e0a7b025c0208da40365f5a80f8c7e7f70e812383af54aa9c9c4bb5096d073f06e231f4f83eb220fdd825ee4
+
+[beh_vlog_muxf7_v8_4]
+A/beh_vlog_muxf7_v8_4=22|../../../../../../edatools/Xilinx/Vivado/2022.1/data/ip/xilinx/blk_mem_gen_v8_4/simulation/blk_mem_gen_v8_4.v|95|1*2028
+BinL64/beh_vlog_muxf7_v8_4=3*1443
+R=../../../../../../edatools/Xilinx/Vivado/2022.1/data/ip/xilinx/blk_mem_gen_v8_4/simulation/blk_mem_gen_v8_4.v|95
+SLP=3*1866
+Version=2022.10.083 (Linux64)|0000003d789cd3cecc4b4ec92cd2d62f4acdcd2f49d5cf4b2cd64fccc8cf4dd5cf4d2c294ad50f70f6d47772f38d0f7409d2770b7077d4d74baec8d1cb2cd007eacb01008ed6149f|5ab3c2249f2ceaac92bf7bf8498d29c8465f9d2df579b8074dcf0145d5108d0073a1b1247e0a3b9e407721c7f6057aab
+
+[blk_mem_axi_read_wrapper_beh_v8_4]
+A/blk_mem_axi_read_wrapper_beh_v8_4=22|../../../../../../edatools/Xilinx/Vivado/2022.1/data/ip/xilinx/blk_mem_gen_v8_4/simulation/blk_mem_gen_v8_4.v|1270|1*56662
+BinL64/blk_mem_axi_read_wrapper_beh_v8_4=3*18365
+R=../../../../../../edatools/Xilinx/Vivado/2022.1/data/ip/xilinx/blk_mem_gen_v8_4/simulation/blk_mem_gen_v8_4.v|1270
+SLP=3*26474
+Version=2022.10.083 (Linux64)|0000003d789cd3cecc4b4ec92cd2d62f4acdcd2f49d5cf4b2cd64fccc8cf4dd5cf4d2c294ad50f70f6d47772f38d0f7409d2770b7077d4d74baec8d1cb2cd007eacb01008ed6149f|02d6441b5ce323cc16cb026b7171c4bbb71e9f3d7dae532c34e63f20c584807789ca6ef79109ebc0b2a4771f87e56b8189928d299172efd046e8a1991c922804
+
+[blk_mem_axi_regs_fwd_v8_4]
+A/blk_mem_axi_regs_fwd_v8_4=22|../../../../../../edatools/Xilinx/Vivado/2022.1/data/ip/xilinx/blk_mem_gen_v8_4/simulation/blk_mem_gen_v8_4.v|1493|1*65976
+BinL64/blk_mem_axi_regs_fwd_v8_4=3*29237
+R=../../../../../../edatools/Xilinx/Vivado/2022.1/data/ip/xilinx/blk_mem_gen_v8_4/simulation/blk_mem_gen_v8_4.v|1493
+SLP=3*30759
+Version=2022.10.083 (Linux64)|0000003d789cd3cecc4b4ec92cd2d62f4acdcd2f49d5cf4b2cd64fccc8cf4dd5cf4d2c294ad50f70f6d47772f38d0f7409d2770b7077d4d74baec8d1cb2cd007eacb01008ed6149f|02d6441b5ce323cc16cb026b7171c4bbd9510fbc32eb9f677cf29182f4498b176a02442ab504285e54d19b0a84099fc6ab25e3b4f3c728215693b5ed92ef0520
+
+[blk_mem_axi_write_wrapper_beh_v8_4]
+A/blk_mem_axi_write_wrapper_beh_v8_4=22|../../../../../../edatools/Xilinx/Vivado/2022.1/data/ip/xilinx/blk_mem_gen_v8_4/simulation/blk_mem_gen_v8_4.v|994|1*46480
+BinL64/blk_mem_axi_write_wrapper_beh_v8_4=3*7189
+R=../../../../../../edatools/Xilinx/Vivado/2022.1/data/ip/xilinx/blk_mem_gen_v8_4/simulation/blk_mem_gen_v8_4.v|994
+SLP=3*14975
+Version=2022.10.083 (Linux64)|0000003d789cd3cecc4b4ec92cd2d62f4acdcd2f49d5cf4b2cd64fccc8cf4dd5cf4d2c294ad50f70f6d47772f38d0f7409d2770b7077d4d74baec8d1cb2cd007eacb01008ed6149f|02d6441b5ce323cc16cb026b7171c4bbeaa18b06d8d9e13c4766b124a1a1d17eb03f1e7978f8b3b861b7f612697106ff5c7558aefc9ea3647bb3b96ebb178f8e
+
+[blk_mem_gen_v8_4_5]
+A/blk_mem_gen_v8_4_5=22|../../../../../../edatools/Xilinx/Vivado/2022.1/data/ip/xilinx/blk_mem_gen_v8_4/simulation/blk_mem_gen_v8_4.v|3412|1*136623
+BinL64/blk_mem_gen_v8_4_5=3*117893
+R=../../../../../../edatools/Xilinx/Vivado/2022.1/data/ip/xilinx/blk_mem_gen_v8_4/simulation/blk_mem_gen_v8_4.v|3412
+SLP=3*135057
+Version=2022.10.083 (Linux64)|0000003d789cd3cecc4b4ec92cd2d62f4acdcd2f49d5cf4b2cd64fccc8cf4dd5cf4d2c294ad50f70f6d47772f38d0f7409d2770b7077d4d74baec8d1cb2cd007eacb01008ed6149f|beb304c69ef670875dbd762e9252a989985f65e1ef48e7d397eccdfaca4fde25850128d004f3305249adf3173f1478c8
+
+[blk_mem_gen_v8_4_5_mem_module]
+A/blk_mem_gen_v8_4_5_mem_module=22|../../../../../../edatools/Xilinx/Vivado/2022.1/data/ip/xilinx/blk_mem_gen_v8_4/simulation/blk_mem_gen_v8_4.v|1951|1*81694
+BinL64/blk_mem_gen_v8_4_5_mem_module=3*46911
+R=../../../../../../edatools/Xilinx/Vivado/2022.1/data/ip/xilinx/blk_mem_gen_v8_4/simulation/blk_mem_gen_v8_4.v|1951
+SLP=3*96179
+Version=2022.10.083 (Linux64)|0000003d789cd3cecc4b4ec92cd2d62f4acdcd2f49d5cf4b2cd64fccc8cf4dd5cf4d2c294ad50f70f6d47772f38d0f7409d2770b7077d4d74baec8d1cb2cd007eacb01008ed6149f|beb304c69ef670875dbd762e9252a989b2ef5458937a280920996e8ae9b1bedda8066e5683d05cf5fc354a19a0814396b8adb68ad544a665139f98bf63c7aa53
+
+[blk_mem_gen_v8_4_5_output_stage]
+A/blk_mem_gen_v8_4_5_output_stage=22|../../../../../../edatools/Xilinx/Vivado/2022.1/data/ip/xilinx/blk_mem_gen_v8_4/simulation/blk_mem_gen_v8_4.v|1563|1*69033
+BinL64/blk_mem_gen_v8_4_5_output_stage=3*31618
+R=../../../../../../edatools/Xilinx/Vivado/2022.1/data/ip/xilinx/blk_mem_gen_v8_4/simulation/blk_mem_gen_v8_4.v|1563
+SLP=3*41636
+Version=2022.10.083 (Linux64)|0000003d789cd3cecc4b4ec92cd2d62f4acdcd2f49d5cf4b2cd64fccc8cf4dd5cf4d2c294ad50f70f6d47772f38d0f7409d2770b7077d4d74baec8d1cb2cd007eacb01008ed6149f|beb304c69ef670875dbd762e9252a9896541d2ae452ebfe9fa8ead16f821b80bc91ef092af7ae43e18a5bd51479969fe28e79630bfd2e64a322dcda57f349b42
+
+[blk_mem_gen_v8_4_5_softecc_output_reg_stage]
+A/blk_mem_gen_v8_4_5_softecc_output_reg_stage=22|../../../../../../edatools/Xilinx/Vivado/2022.1/data/ip/xilinx/blk_mem_gen_v8_4/simulation/blk_mem_gen_v8_4.v|1859|1*77815
+BinL64/blk_mem_gen_v8_4_5_softecc_output_reg_stage=3*44518
+R=../../../../../../edatools/Xilinx/Vivado/2022.1/data/ip/xilinx/blk_mem_gen_v8_4/simulation/blk_mem_gen_v8_4.v|1859
+SLP=3*46266
+Version=2022.10.083 (Linux64)|0000003d789cd3cecc4b4ec92cd2d62f4acdcd2f49d5cf4b2cd64fccc8cf4dd5cf4d2c294ad50f70f6d47772f38d0f7409d2770b7077d4d74baec8d1cb2cd007eacb01008ed6149f|beb304c69ef670875dbd762e9252a989fecf9fd2c2039c0f9fca8ea1668f438d5272c93c7440dff37625306547abdeeea2cbc8266cdf001c95d9282a85b9531afa5a11c33c509f1da77236e12d4ee5bd
+
+[read_netlist_v8_4]
+A/read_netlist_v8_4=22|../../../../../../edatools/Xilinx/Vivado/2022.1/data/ip/xilinx/blk_mem_gen_v8_4/simulation/blk_mem_gen_v8_4.v|635|1*29629
+BinL64/read_netlist_v8_4=3*6382
+R=../../../../../../edatools/Xilinx/Vivado/2022.1/data/ip/xilinx/blk_mem_gen_v8_4/simulation/blk_mem_gen_v8_4.v|635
+SLP=3*6781
+Version=2022.10.083 (Linux64)|0000003d789cd3cecc4b4ec92cd2d62f4acdcd2f49d5cf4b2cd64fccc8cf4dd5cf4d2c294ad50f70f6d47772f38d0f7409d2770b7077d4d74baec8d1cb2cd007eacb01008ed6149f|08c7b787563f1ed2f3b21b38359f66db5f038e3bb66d862c895285077bd2b3845f75dcc7ea3313f64903e2944a2fbc21
+
+[write_netlist_v8_4]
+A/write_netlist_v8_4=22|../../../../../../edatools/Xilinx/Vivado/2022.1/data/ip/xilinx/blk_mem_gen_v8_4/simulation/blk_mem_gen_v8_4.v|166|1*8151
+BinL64/write_netlist_v8_4=3*5138
+R=../../../../../../edatools/Xilinx/Vivado/2022.1/data/ip/xilinx/blk_mem_gen_v8_4/simulation/blk_mem_gen_v8_4.v|166
+SLP=3*5870
+Version=2022.10.083 (Linux64)|0000003d789cd3cecc4b4ec92cd2d62f4acdcd2f49d5cf4b2cd64fccc8cf4dd5cf4d2c294ad50f70f6d47772f38d0f7409d2770b7077d4d74baec8d1cb2cd007eacb01008ed6149f|1a451bb2d4f434f81970e769962dc5301a5b22a34a24c4c185b805127ec880124ecdbd35be15467cc760ca31e4d6ea83
+
+[~U]
+$root=12|0*0|
+STATE_LOGIC_v8_4=12|0*294|
+beh_vlog_ff_ce_clr_v8_4=12|0*1317|
+beh_vlog_ff_clr_v8_4=12|0*779|
+beh_vlog_ff_pre_v8_4=12|0*1047|
+beh_vlog_muxf7_v8_4=12|0*552|
+blk_mem_axi_read_wrapper_beh_v8_4=12|0*3194|
+blk_mem_axi_regs_fwd_v8_4=12|0*3824|
+blk_mem_axi_write_wrapper_beh_v8_4=12|0*2595|
+blk_mem_gen_v8_4_5=12|0*7103||0x10
+blk_mem_gen_v8_4_5_mem_module=12|0*5126|
+blk_mem_gen_v8_4_5_output_stage=12|0*4153|
+blk_mem_gen_v8_4_5_softecc_output_reg_stage=12|0*4713|
+read_netlist_v8_4=12|0*1960|
+write_netlist_v8_4=12|0*1595|

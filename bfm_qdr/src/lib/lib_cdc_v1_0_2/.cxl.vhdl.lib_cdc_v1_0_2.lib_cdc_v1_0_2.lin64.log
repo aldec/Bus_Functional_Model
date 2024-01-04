@@ -1,0 +1,5 @@
+Aldec, Inc. VHDL Compiler, build 2022.10.083
+VLM Initialized with path: "/remote/nas/ahome/matre/PCI/BFM_QDR/FPGA/library.cfg".
+COMP96 Compile Entity "cdc_sync"
+COMP96 Compile Architecture "implementation" of Entity "cdc_sync"
+COMP96 Compile success 0 Errors 0 Warnings  Analysis time :  0.3 [s]

@@ -1,4 +1,0 @@
-MESSAGE_SP VCP2876 "Implicit net declaration, symbol srst_wrst_busy has not been declared in module fifo_generator_v13_2_7_bhv_ver_ss." "/remote/nas/edatools/Xilinx/Vivado/2022.1/data/ip/xilinx/fifo_generator_v13_2/simulation/fifo_generator_vlog_beh.v" 7793  28
-WARNING VCP1251 "The warning message cannot be shown because a protected code block was seen in the current compilation session. Any further warnings will be disregarded."
-SUCCESS "Compile success 0 Errors 14 Warnings  Analysis time: 0[s]."
-done

@@ -11,7 +11,7 @@ works with newer versions of Riviera-Pro simulator.
 
 Known Problems
 
-If the path to Riviera-Pro is not established. After Run Simulation is selected, the tcl console should print:
+If the path to Riviera-PRO is not established. After Run Simulation is selected, the tcl console should print:
 
 ERROR: [USF-Riviera-PRO-35] Failed to locate '../rungui' executable in the shell environment 'PATH' variable. 
 Please source the settings script included with the installation and retry this operation again.
@@ -23,13 +23,13 @@ ELAB2: Warning: ELAB2_0113 Task or function "$check_license" not defined in
 module "Ax_Axi4MasterBFMcore" from library "xil_defaultlib"
 
 Make sure the correct path is given in -pli switch in asim command located in "simulate.do" file.
-Correct the path in project file (visible in Riviera-Pro) or in source file (src/simulate.do).
+Correct the path in project file (visible in Riviera-PRO) or in source file (src/simulate.do).
 Actualisation of source file requires vivado project re-generation.
 
 The path should be established as follows:
 
 Windows
--pli <path_to_Riviera-Pro>/bin/libAxiBfmPliRiv
+-pli <path_to_Riviera-PRO>/bin/libAxiBfmPliRiv
 
 Linux
--pli <path_to_Riviera-Pro>/bin/Linux64/libAxiBfmPliRiv
+-pli <path_to_Riviera-PRO>/bin/Linux64/libAxiBfmPliRiv

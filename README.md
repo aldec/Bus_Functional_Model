@@ -2,7 +2,7 @@
 * OS:
   This example was tested on Ubuntu 22.04.5 LTS and Windows 11 
 * Tools:
-  + Xilinx Vivado 2022.1 
+  + Xilinx Vivado 2022.1 or newer
   + Aldec Riviera-PRO 2022.10 or newer with preinstalled simulation libraries:
     + unisim
     + unisims_ver

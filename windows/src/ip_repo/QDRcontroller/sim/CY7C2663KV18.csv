@@ -1,4 +1,0 @@
-Part type,Part name,Memory Read Latency,Burst length,Address width,Memory speed grade,Memory density,Memory device width,Data bits per strobe,IO Voltages,Data widths,Min period,Max period
-Components,CY7C2663KV18,2.5,4,21,550,144Mb,18,18,1.5V,"18",1818,8400
-Components,CY7C2663KV18_17,2.5,4,17,550,9Mb,18,18,1.5V,"18,36",1818,8400
-Components,CY7C2663KV18_BL2,2.5,2,21,550,144Mb,18,18,1.5V,"18",1818,8400

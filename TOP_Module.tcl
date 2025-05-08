@@ -23,11 +23,10 @@ set script_folder [_tcl::get_script_folder]
 set scripts_vivado_version 2022.1
 set current_vivado_version [version -short]
 
-if { [string first $scripts_vivado_version $current_vivado_version] == -1 } {
-   puts ""
-   catch {common::send_gid_msg -ssname BD::TCL -id 2041 -severity "ERROR" "This script was generated using Vivado <$scripts_vivado_version> and is being run in <$current_vivado_version> of Vivado. Please run the script in Vivado <$scripts_vivado_version> then open the design in Vivado <$current_vivado_version>. Upgrade the design by running \"Tools => Report => Report IP Status...\", then run write_bd_tcl to create an updated script."}
-
-   return 1
+puts ""
+if { [string compare $scripts_vivado_version $current_vivado_version] > 0 } {
+    catch {common::send_gid_msg -ssname BD::TCL -id 2042 -severity "ERROR" " This script was generated using Vivado <$scripts_vivado_version> and is being run in <$current_vivado_version> of Vivado. Sourcing the script failed since it was created with a future version of Vivado."}
+    return 1
 }
 
 ################################################################
@@ -272,8 +271,12 @@ make_wrapper -files [get_files BFM_AXI_QDR/BFM_AXI_QDR.srcs/sources_1/bd/TOP_Mod
 add_files -norecurse BFM_AXI_QDR/BFM_AXI_QDR.gen/sources_1/bd/TOP_Module/hdl/TOP_Module_wrapper.v
 
 import_files -fileset sim_1 src/testbench.v
-import_files -fileset sim_1 src/simulate.do
+import_files -fileset sim_1 src/wave.do
 
 update_compile_order -fileset sources_1
 set_property target_simulator Riviera [current_project]
-set_property -name {riviera.simulate.custom_do} -value {simulate.do} -objects [get_filesets sim_1]
+set_property -name {riviera.simulate.custom_udo} -value {wave.do} -objects [get_filesets sim_1]
+set_property -name {riviera.simulate.runtime} -value {run -all} -objects [get_filesets sim_1]
+set_property -name {riviera.simulate.asim.more_options} -value {-pli libAxiBfmPliRiv} -objects [get_filesets sim_1]
+set_property -name {riviera.elaborate.access} -value {true} -objects [get_filesets sim_1]
+
